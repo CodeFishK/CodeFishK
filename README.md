@@ -6,11 +6,6 @@
 
 ## AnoldmanLiSir ✈️ ![](https://views.whatilearened.today/views/github/AnoldmanLiSir/AnoldmanLiSir.svg)
 
-[![Twitter Badge](https://img.shields.io/badge/-LiMinemine-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/https://twitter.com/LiMinemine)](https://twitter.com/LiMinemine)
-[![Facebook Badge](https://img.shields.io/badge/-Lyon%20Noah-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010091525345)](https://www.facebook.com/profile.php?id=100010091525345)
-[![Gmail Badge](https://img.shields.io/badge/-mrlee1415757140@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mrlee1415757140@gmail.com)](mailto:mrlee1415757140@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-fishiball_k-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/fishiball_k)](https://www.instagram.com/fishiball_k)
-
 [![AnoldmanLiSir's github stats](https://github-readme-stats.vercel.app/api?username=AnoldmanLiSir&show_icons=true)](https://github.com/AnoldmanLiSir)
 
 [![AnoldmanLiSir's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoldmanLiSir&show_icons=true&layout=compact)](https://github.com/AnoldmanLiSir)
@@ -33,6 +28,10 @@
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - 📫 How to reach me: [My Site](https://blog.wzkaopu.com/)
+[![Twitter Badge](https://img.shields.io/badge/-LiMinemine-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/https://twitter.com/LiMinemine)](https://twitter.com/LiMinemine)
+[![Facebook Badge](https://img.shields.io/badge/-Lyon%20Noah-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010091525345)](https://www.facebook.com/profile.php?id=100010091525345)
+[![Gmail Badge](https://img.shields.io/badge/-mrlee1415757140@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mrlee1415757140@gmail.com)](mailto:mrlee1415757140@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-fishiball_k-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/fishiball_k)](https://www.instagram.com/fishiball_k)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
 # Read my recent blog's
