@@ -27,15 +27,16 @@
 - 🌱 Learning all about:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
-- 📫 How to reach me: [My Site](https://blog.wzkaopu.com/)
+- 📫 How to reach me: 
+[![Gmail Badge](https://img.shields.io/badge/-mrlee1415757140@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mrlee1415757140@gmail.com)](mailto:mrlee1415757140@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-LiMinemine-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/https://twitter.com/LiMinemine)](https://twitter.com/LiMinemine)
 [![Facebook Badge](https://img.shields.io/badge/-Lyon%20Noah-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010091525345)](https://www.facebook.com/profile.php?id=100010091525345)
-[![Gmail Badge](https://img.shields.io/badge/-mrlee1415757140@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mrlee1415757140@gmail.com)](mailto:mrlee1415757140@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-fishiball_k-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/fishiball_k)](https://www.instagram.com/fishiball_k)
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+[My Blog](https://blog.wzkaopu.com/)
+- ⚡️ My Motto: The shortest answer is doing.
 
 # Read my recent blog's
-All these are friend link you can access for free
+All these are friendly link you can access for free
 
 - [三种数据模型---层次模型、网状模型以及关系模型](https://blog.wzkaopu.com/archives/92.html)
 - [Rclone进阶使用教程-常用命令参数详解](https://blog.wzkaopu.com/archives/66.html)
