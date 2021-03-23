@@ -12,9 +12,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-AnoldmanLiSir-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/AnoldmanLiSir)](https://www.youtube.com/channel/AnoldmanLiSir)
 [![Instagram Badge](https://img.shields.io/badge/-AnoldmanLiSir-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AnoldmanLiSir/)](https://instagram.com/AnoldmanLiSir)
 
-[![AnoldmanLiSir's github stats](https://github-readme-stats.vercel.app/api?username=AnoldmanLiSir&theme=dark&show_icons=true)](https://github.com/AnoldmanLiSir)
-
-[![AnoldmanLiSir's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoldmanLiSir&show_icons=true&layout=compact&theme=dark&hide_border=true&hide=html,css)](https://github.com/AnoldmanLiSir)
+[![AnoldmanLiSir's github stats](https://github-readme-stats.vercel.app/api?username=AnoldmanLiSir&show_icons=true)](https://github.com/AnoldmanLiSir)
+[![AnoldmanLiSir's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoldmanLiSir&show_icons=true&layout=compact&hide_border=true)](https://github.com/AnoldmanLiSir)
 
 - 🌱 I'm a cross-border e-commerce operator
 - 🏢 I'm currently working at [Hengyi square, Jiangbei District, Ningbo City](https://ditu.amap.com/place/B0FFFFJRSK)
