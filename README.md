@@ -1,4 +1,8 @@
 # Hi there 👋
+> 道可道，非常道；名可名，非常名。  
+无名，天地之始，有名，万物之母。  
+故常无欲，以观其妙，常有欲，以观其徼。  
+此两者，同出而异名，同谓之玄，玄之又玄，众妙之门。———《道德经》
 
 ## AnoldmanLiSir ✈️ ![](https://views.whatilearened.today/views/github/AnoldmanLiSir/AnoldmanLiSir.svg)
 
@@ -7,11 +11,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-mrlee1415757140@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:mrlee1415757140@gmail.com)](mrlee1415757140@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-AnoldmanLiSir-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/AnoldmanLiSir)](https://www.youtube.com/channel/AnoldmanLiSir)
 [![Instagram Badge](https://img.shields.io/badge/-AnoldmanLiSir-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/AnoldmanLiSir/)](https://instagram.com/AnoldmanLiSir)
-
-> 道可道，非常道；名可名，非常名。  
-无名，天地之始，有名，万物之母。  
-故常无欲，以观其妙，常有欲，以观其徼。  
-此两者，同出而异名，同谓之玄，玄之又玄，众妙之门。———《道德经》
 
 [![AnoldmanLiSir's github stats](https://github-readme-stats.vercel.app/api?username=AnoldmanLiSir&theme=dark&show_icons=true)](https://github.com/AnoldmanLiSir)
 
