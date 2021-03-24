@@ -4,11 +4,11 @@
 故常无欲，以观其妙，常有欲，以观其徼。  
 此两者，同出而异名，同谓之玄，玄之又玄，众妙之门。———《道德经》
 
-## AnoldmanLiSir ✈️ ![](https://views.whatilearened.today/views/github/AnoldmanLiSir/AnoldmanLiSir.svg)
+## CodeFishK ✈️ ![](https://views.whatilearened.today/views/github/CodeFishK/CodeFishK.svg)
 
-[![AnoldmanLiSir's github stats](https://github-readme-stats.vercel.app/api?username=AnoldmanLiSir&show_icons=true)](https://github.com/AnoldmanLiSir)
+[![CodeFishK's github stats](https://github-readme-stats.vercel.app/api?username=CodeFishK&show_icons=true)](https://github.com/CodeFishK)
 
-[![AnoldmanLiSir's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoldmanLiSir&show_icons=true&layout=compact)](https://github.com/AnoldmanLiSir)
+[![CodeFishK's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFishK&show_icons=true&layout=compact)](https://github.com/CodeFishK)
 
 - 💻 I'm a cross-border e-commerce operator
 - 🏢 I'm currently working at [Hengyi square, Jiangbei District, Ningbo City](https://ditu.amap.com/place/B0FFFFJRSK)
@@ -33,7 +33,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Lyon%20Noah-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010091525345)](https://www.facebook.com/profile.php?id=100010091525345)
 [![Instagram Badge](https://img.shields.io/badge/-fishiball_k-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/fishiball_k)](https://www.instagram.com/fishiball_k)
 [My Blog](https://blog.wzkaopu.com/)
-- ⚡️ My Motto: The shortest answer is doing.
+- ⚡️ My motto: The shortest answer is doing.
 
 # Read my recent blog's
 All these are friendly link you can access for free
