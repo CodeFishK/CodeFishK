@@ -31,11 +31,3 @@
 [![Facebook Badge](https://img.shields.io/badge/-Lyon%20Noah-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100010091525345)](https://www.facebook.com/profile.php?id=100010091525345)
 [![Instagram Badge](https://img.shields.io/badge/-fishiball_k-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/fishiball_k)](https://www.instagram.com/fishiball_k)
 - ⚡️ My motto: The shortest answer is doing.
-
-# Read my recent blog's
-All these are friendly link you can access for free
-
-- [三种数据模型---层次模型、网状模型以及关系模型](https://blog.wzkaopu.com/archives/92.html)
-- [Rclone进阶使用教程-常用命令参数详解](https://blog.wzkaopu.com/archives/66.html)
-- [Linux如何查看端口状态](https://blog.wzkaopu.com/archives/122.html)
-- [CentOS7 开启3306端口](https://blog.wzkaopu.com/archives/123.html)
