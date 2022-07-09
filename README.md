@@ -10,7 +10,7 @@
 
 [![CodeFishK's most uesd language](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFishK&show_icons=true&layout=compact)](https://github.com/CodeFishK)
 
-- 💻 I'm a cross-border e-commerce operator
+- 💻 I'm a Software Implementation Specialist
 - 🚀 I use daily:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
